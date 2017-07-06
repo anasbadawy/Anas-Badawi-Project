@@ -32,22 +32,28 @@
 }
 
 .about-ceo {
-  padding-top: 40px;
+  padding-top: 35px;
   background-color: #EEE;
+}
+.about-ceo p {
+  margin-top: 25px;
 }
 .about-ceo .lead {
   line-height: 1.7;
 }
 .about-ceo h2 {
   font-family: 'Raleway', sans-serif;
-  padding-top: 25px;
+  padding-top: 30px;
 }
 
 .about-ceo .btn-primary {
   background-color: #333;
   border-color: #333;
   display: inline-block;
+  font-size: 16px;
   margin-bottom: 30px;
+  width: 120px;
+  margin-top: 15px;
 }
 /*end about us */
 
